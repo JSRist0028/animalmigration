@@ -1,3 +1,3 @@
 ---
-title: Modeling Animal Migration Routeswith Machine Learning
+title: Modeling Animal Migration Routes with Machine Learning
 ---
