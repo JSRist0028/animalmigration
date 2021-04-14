@@ -12,31 +12,37 @@ import math
 
 # Function for splitting the data into testing and training sets
 
-def train_test_split(datafile, train_ratio):
+def train_test_split(datafile, tomorrow, train_ratio, includetemp):
     
     # Define dataframes to return
     
-    headers = ['AnimalID', 'TS', 'Lat', 'Long', 'TS - 1', 'Lat - 1', 'Long - 1']
-    train = pandas.DataFrame(columns = headers)
-    test = pandas.DataFrame(columns = headers)
+    xheaders = ['AnimalID', 'TS', 'Lat - 1', 'Long - 1']
+    yheaders = ['AnimalID', 'Lat', 'Long']
+    
+    trainx = pandas.DataFrame(columns = xheaders)
+    trainy = pandas.DataFrame(columns = yheaders)
+    testx = pandas.DataFrame(columns = xheaders)
+    testy = pandas.DataFrame(columns = yheaders)
     
     # Split each unique animal tracking info into training and testing sets
     
-    for animal in datafile['AnimalID'].unique():
-        traincount = math.ceil(float(datafile[datafile['AnimalID'] == animal].shape[0]) * train_ratio)
-        obscount = datafile[datafile['AnimalID'] == animal].shape[0]
-        obslist = datafile.index[datafile['AnimalID'] == animal].tolist()
+    for animal in datafile[0].unique():
+        traincount = math.ceil(float(datafile[datafile[0] == animal].shape[0]) * train_ratio)
+        obscount = datafile[datafile[0] == animal].shape[0]
+        obslist = datafile.index[datafile[0] == animal].tolist()
         
         for obs in range(0, traincount, 1):
-            df = [animal, datafile['TS - 1'][obslist[obs]], datafile['Lat'][obslist[obs]], datafile['Long'][obslist[obs]],
-                                  datafile['TS - 1'][obslist[obs]], datafile['Lat - 1'][obslist[obs]], datafile['Long - 1'][obslist[obs]]]
+            dfx = [animal, datafile[1][obslist[obs]], datafile[2][obslist[obs]], datafile[3][obslist[obs]]]
+            dfy = [animal, tomorrow[1][obslist[obs]], tomorrow[2][obslist[obs]]]
             
-            train.loc[len(train.index)] = df
+            trainx.loc[len(trainx.index)] = dfx
+            trainy.loc[len(trainy.index)] = dfy
     
         for obs in range(traincount, obscount, 1):
-            df = [animal, datafile['TS - 1'][obslist[obs]], datafile['Lat'][obslist[obs]], datafile['Long'][obslist[obs]],
-                                  datafile['TS - 1'][obslist[obs]], datafile['Lat - 1'][obslist[obs]], datafile['Long - 1'][obslist[obs]]]
+            dfx = [animal, datafile[1][obslist[obs]], datafile[2][obslist[obs]], datafile[3][obslist[obs]]]
+            dfy = [animal, tomorrow[1][obslist[obs]], tomorrow[2][obslist[obs]]]
             
-            test.loc[len(test.index)] = df
+            testx.loc[len(testx.index)] = dfx
+            testy.loc[len(testy.index)] = dfy
     
-    return(train, test)
+    return(trainx, trainy, testx, testy)
