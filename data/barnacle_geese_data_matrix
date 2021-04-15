@@ -1,6 +1,4 @@
 row number,timestamp,latitude,longitude,height,speed,heading,birdID,tavg,tmin,tmax,prcp,snow,wdir,wspd,wpgt,pres,tsun,station_lat,station_long
-row number,timestamp,latitude,longitude,height,speed,heading,birdID,tavg,tmin,tmax,prcp,snow,wdir,wspd,wpgt,pres,tsun,station_lat,station_long
-row number,timestamp,latitude,longitude,height,speed,heading,birdID,tavg,tmin,tmax,prcp,snow,wdir,wspd,wpgt,pres,tsun,station_lat,station_long
 0,2009-02-11 10:00:00,53.404830000000004,6.156000000000001,1.0,0.0,98.0,78033,11.2,3.9,20.0,0.0,0.0,nan,6.1,nan,1022.6,nan,33.5667,-86.75
 1,2009-02-12 10:00:00,53.36216999999999,6.1375,1.0,0.0,61.0,78033,11.3,2.8,18.3,0.3,0.0,nan,6.5,nan,1020.2,nan,33.5667,-86.75
 2,2009-02-13 10:00:00,53.348330000000004,6.12833,1.0,0.0,3.0,78033,12.6,7.2,18.3,0.5,0.0,nan,8.3,nan,1015.4,nan,33.5667,-86.75
