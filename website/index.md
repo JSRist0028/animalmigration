@@ -13,10 +13,10 @@ Click on each image below for a detailed study of these animals
 
 # Barnacle geese
 
-[![alt="Barnacle geese" width="240", height="180" border="10"](https://media.gettyimages.com/photos/flock-of-barnacle-geese-taking-off-from-lake-picture-id584682566?s=2048x2048)](https://github.com/JSRist0028/animalmigration/blob/60160c1bc47d66bb85895bf4a465ecfe580e2cf4/website/barnaclegeese.md)
+<img src="https://media.gettyimages.com/photos/flock-of-barnacle-geese-taking-off-from-lake-picture-id584682566?s=2048x2048" width="400" >![](https://github.com/JSRist0028/animalmigration/blob/60160c1bc47d66bb85895bf4a465ecfe580e2cf4/website/barnaclegeese.md)
 
 # Whales
-[![alt="Whales" width="240", height="180" border="10"](https://media.gettyimages.com/photos/humpback-whale-and-calf-in-the-waters-of-tonga-picture-id936167240?s=612x612)](https://github.com/JSRist0028/animalmigration/blob/7c6138fdd1d20d9bc6fd85e556bda8b0b13058b2/website/whale.md)
+<img src="https://media.gettyimages.com/photos/humpback-whale-and-calf-in-the-waters-of-tonga-picture-id936167240?s=612x612" width="400" >![](https://github.com/JSRist0028/animalmigration/blob/7c6138fdd1d20d9bc6fd85e556bda8b0b13058b2/website/whale.md)
 
 
 # Methodology 
