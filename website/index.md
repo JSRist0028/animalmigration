@@ -11,3 +11,13 @@ The overarching goal of this project is to create an easy-to-implement tool that
 
 # Methodology 
 This project uses Python's Keras package to create a neural network for prediction. Inputs to the model include the date and location (latitudue and longitude) of the animal and the location's weather conditions on the current day. The target is animal location on the next day. Our neural network is trained using the first (by date) 70% of the dataset. The network predicts the next day location of the animal after the last date of the training set. It continues determining next day location based off of previous day prediction, building a migration path for the final 30% of the dataset. This process is repeated for every unique animal in the species dataset.
+
+# Barnacle geese
+
+![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FBarnacle_goose&psig=AOvVaw2C2ItIk1UpyOHjguPBXfgm&ust=1618516113790000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPDSjJyzgPACFQAAAAAdAAAAABAD)
+
+In this project, we analyzed barnacle geese data near the Barents Sea from the Movebank database repository across eight years. Barnacle goose is a species which locates mainly in the Arctic area. Previous simulation study has found that increasing temperatures can predict barnacle goose growing population.[1] Various indicators of climate change, such as mean daily air temperature, wind, low-altitude cloud cover and timing of spring, were associated with barnacle geese’s migration route.[2,3]
+
+
+
+# References
