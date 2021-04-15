@@ -9,7 +9,7 @@ Environmental conditions have changed significantly in the past few decades. Man
 
 The overarching goal of this project is to create an easy-to-implement tool that can predict the future migration routes of any animal with historic tracking data using an automated machine learning process. 
 
-Click on each image below for a detailed study of these animals 
+**Click on each image below for a detailed study of these animals**
 
 # Barnacle geese
 
