@@ -14,7 +14,7 @@ This project uses Python's Keras package to create a neural network for predicti
 
 # Barnacle geese
 
-![](https://www.google.com/urlsa=i&url=https%3A%2F%2Febird.org%2Fspecies%2Fbargoo&psig=AOvVaw2C2ItIk1UpyOHjguPBXfgm&ust=1618516113790000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPDSjJyzgPACFQAAAAAdAAAAABAI)
+![](https://ebird.org/species/bargoo)
 
 In this project, we analyzed barnacle geese data near the Barents Sea from the Movebank database repository across eight years. Barnacle goose is a species which locates mainly in the Arctic area. Previous simulation study has found that increasing temperatures can predict barnacle goose growing population.[1] Various indicators of climate change, such as mean daily air temperature, wind, low-altitude cloud cover and timing of spring, were associated with barnacle geese’s migration route.[2,3]
 
