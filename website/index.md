@@ -13,10 +13,10 @@ The overarching goal of this project is to create an easy-to-implement tool that
 
 # Barnacle geese
 
-[<img src="https://media.gettyimages.com/photos/flock-of-barnacle-geese-taking-off-from-lake-picture-id584682566?s=2048x2048" width="400" >](https://github.com/JSRist0028/animalmigration/blob/7324f5a948200a7842793bcefd7c7b6b646f21e3/website/barnaclegeese.md)
+[<img src="https://media.gettyimages.com/photos/flock-of-barnacle-geese-taking-off-from-lake-picture-id584682566?s=2048x2048" width="400" >](https://jsrist0028.github.io/animalmigration/website/barnaclegeese)
 
 # Whales
-[<img src="https://media.gettyimages.com/photos/humpback-whale-and-calf-in-the-waters-of-tonga-picture-id936167240?s=612x612" width="400" >](https://github.com/JSRist0028/animalmigration/blob/7c6138fdd1d20d9bc6fd85e556bda8b0b13058b2/website/whale.md)
+[<img src="https://media.gettyimages.com/photos/humpback-whale-and-calf-in-the-waters-of-tonga-picture-id936167240?s=612x612" width="400" >](https://jsrist0028.github.io/animalmigration/website/whale)
 
 
 # Methodology 
