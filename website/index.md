@@ -11,10 +11,10 @@ The overarching goal of this project is to create an easy-to-implement tool that
 **Click on each image below for a detailed study of these animals**
 
 
-[<img src="https://github.com/JSRist0028/animalmigration/blob/57e907a53538094c530b101bd2f4b9d25f7831d8/website/goose_thumbnail.PNG" width="400" >](https://jsrist0028.github.io/animalmigration/website/barnaclegeese)
+[<img src="https://github.com/JSRist0028/animalmigration/blob/57e907a53538094c530b101bd2f4b9d25f7831d8/website/goose_thumbnail.PNG?raw=true" width="400" >](https://jsrist0028.github.io/animalmigration/website/barnaclegeese)
 
 
-[<img src="https://github.com/JSRist0028/animalmigration/blob/57e907a53538094c530b101bd2f4b9d25f7831d8/website/swan_thumbnail.PNG" width="400" >](https://jsrist0028.github.io/animalmigration/website/whale)
+[<img src="https://github.com/JSRist0028/animalmigration/blob/57e907a53538094c530b101bd2f4b9d25f7831d8/website/swan_thumbnail.PNG?raw=true" width="400" >](https://jsrist0028.github.io/animalmigration/website/whale)
 
 
 # Methodology 
