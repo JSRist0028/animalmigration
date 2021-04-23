@@ -8,9 +8,12 @@ We analyzed barnacle geese data near the Barents Sea from the [Movebank database
 
 
 We modeled and predicted where each tracked bird was expected to be the next day and traced year-long migration routes. We trained our model with the first 75% (or 3 years) of our tracked data and compared our results using only the bird's location data to our results using the bird's location data and daily weather data. We looked at the accuracy for our model predicting the next location in our "training data" (the first 75% of data), the next day location of our "testing data" (the remaining 25% of data), and the locations of each bird continuously for a future year of data (tested using the final 25% of data). The loss for each prediction type is shown in the figure below.
+
+
 |    | Training data loss | Next day prediction loss | Year-long prediction loss |
 | --- | --- | --- | --- |
 | Without Temperature | 0.70 | 0.72 | 12.16 |
 | With Temperature | 0.66 | 0.66 | 14.28 | 
+
 
 ![alt="Geese results" width="880" border="10"](https://github.com/JSRist0028/animalmigration/blob/9a4bd8714fd4ff9d416e240912bcea060301591f/website/goose_results.PNG?raw=true)
