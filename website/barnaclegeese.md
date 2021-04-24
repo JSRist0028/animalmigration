@@ -16,4 +16,4 @@ We modeled and predicted where each tracked bird was expected to be the next day
 | With Temperature | 0.67 | 0.67 | 8.2 | 
 
 
-![alt="Geese results" width="880" border="10"](https://github.com/JSRist0028/animalmigration/blob/9a4bd8714fd4ff9d416e240912bcea060301591f/website/goose_results.PNG?raw=true)
+![alt="Geese results" width="880" border="10"](https://github.com/JSRist0028/animalmigration/blob/94fd4e5fd2e6634fae69666f3989a87153fb50b7/website/goose_results.PNG?raw=true)
