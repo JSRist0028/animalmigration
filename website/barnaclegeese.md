@@ -13,7 +13,7 @@ We modeled and predicted where each tracked bird was expected to be the next day
 |    | Training data loss | Next day prediction loss | Year-long prediction loss |
 | --- | --- | --- | --- |
 | Without Temperature | 0.70 | 0.72 | 12.16 |
-| With Temperature | 0.66 | 0.66 | 14.28 | 
+| With Temperature | 0.67 | 0.67 | 8.2 | 
 
 
 ![alt="Geese results" width="880" border="10"](https://github.com/JSRist0028/animalmigration/blob/9a4bd8714fd4ff9d416e240912bcea060301591f/website/goose_results.PNG?raw=true)
