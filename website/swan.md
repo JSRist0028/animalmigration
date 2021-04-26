@@ -16,3 +16,7 @@ We modeled and predicted where each tracked bird was expected to be the next day
 
 
 ![alt="Swan results" width="880" border="10"](https://github.com/JSRist0028/animalmigration/blob/94fd4e5fd2e6634fae69666f3989a87153fb50b7/website/swan_results.PNG?raw=true)
+
+
+<img src="https://github.com/JSRist0028/animalmigration/blob/be52614bc1b553311ed2855c2c19466238182d2e/animations/SwanNoTemp.gif?raw=true" width="500" />
+<img src="https://github.com/JSRist0028/animalmigration/blob/be52614bc1b553311ed2855c2c19466238182d2e/animations/SwanTemp.gif?raw=true" width="500" /> 
