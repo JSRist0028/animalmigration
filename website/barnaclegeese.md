@@ -18,6 +18,10 @@ We modeled and predicted where each tracked bird was expected to be the next day
 
 ![alt="Geese results" width="880" border="10"](https://github.com/JSRist0028/animalmigration/blob/94fd4e5fd2e6634fae69666f3989a87153fb50b7/website/goose_results.PNG?raw=true)
 
+<img src="https://github.com/JSRist0028/animalmigration/blob/cf88cd2bc6fd08950ad5a01aeafcb75bb0c46602/animations/GooseNoTemp.gif?raw=true" width="500" />
+<img src="https://github.com/JSRist0028/animalmigration/blob/cf88cd2bc6fd08950ad5a01aeafcb75bb0c46602/animations/GooseTemp.gif?raw=true" width="500" /> 
 
-![alt="Geese animation no temp" width="200" border="10"](https://github.com/JSRist0028/animalmigration/blob/cf88cd2bc6fd08950ad5a01aeafcb75bb0c46602/animations/GooseNoTemp.gif?raw=true)
-![alt="Geese animation no temp" width="200" border="10"](https://github.com/JSRist0028/animalmigration/blob/cf88cd2bc6fd08950ad5a01aeafcb75bb0c46602/animations/GooseTemp.gif?raw=true)
+# How will Global Warming likely affect goose migration?
+<img src="https://github.com/JSRist0028/animalmigration/blob/c672b258604944b464d091141b3f5f34360dd60d/animations/GooseGW.gif?raw=true" width="500" /> 
+
+In this figure, 'GW' indicates that the datapoints are related to the prediction with a two degree celsius temperature increase, while 'no GW' indicates the path with the actual temperature values. A a temperature increase is predicted to cause the geese the migrate sooner and migrate farther south. 
