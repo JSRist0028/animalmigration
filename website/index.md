@@ -2,8 +2,11 @@
 title: Modeling Animal Migration Routes with Machine Learning
 
 ---
-<img src="https://github.com/JSRist0028/animalmigration/blob/d88d2d8699947cc306f03af4980d05e1554641e4/website/swan_map_contpred_notemp.PNG?raw=true" width="600" >
-Swan migration route prediction
+| ![https://github.com/JSRist0028/animalmigration/blob/d88d2d8699947cc306f03af4980d05e1554641e4/website/swan_map_contpred_notemp.PNG?raw=true](https://github.com/JSRist0028/animalmigration/blob/d88d2d8699947cc306f03af4980d05e1554641e4/website/swan_map_contpred_notemp.PNG?raw=true) | 
+|:--:| 
+| *Swan Migration Route Prediction* |
+
+
 
 # Why use machine learning to investigate animal migration routes?
 Environmental conditions have changed significantly in the past few decades. Many species are sensitive to climate change and alter their migration pathways by long distances or change their migration  timing in  response  to changing  temperatures. Using historic species geolocation and weather data we can predict future movement, including anticipating migration path and timing shifts. It  is  particularly  challenging  and  time-consuming  to  manually  analyze  the  geolocator  data. Machine  learning  algorithms are  crucial  to  bridge  this  gap  and create  accurate  and  informative migration models. 
