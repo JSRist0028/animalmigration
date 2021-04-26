@@ -38,7 +38,9 @@ Similar to the barnacle geeseâ€™s result, the model of predicting tundra swansâ€
 
 
 # Takeaways
-This project demonstrates that a neural network framework is an efficient way to predict the migration routes of animals. Although this tool is less accurate than prediction methods on induvidual speicies, it is general and does not require extensive background knowledge in animal behavior in order to be implemented. However, to ensure valid results we do recommend doing research on migration patterns for a particular animal species in parallel with use of the model, ensuring that the model results will be valid. Applying this model will help researchers and policy makers better understand animal migration patterns so that these animal species will not be harmed with future climate change and infastructure development. We welcome you to give the code an animal species of interest and hope to update and improve the model in future studies! 
+This project demonstrates that a neural network framework is an efficient way to predict the migration routes of animals. Although this tool is less accurate than specialized prediction methods on individual speicies, it is general and does not require extensive background knowledge in animal behavior in order to be implemented. However, to ensure valid results we do recommend doing research on migration patterns for a particular animal species in parallel with use of the model (such as if it is well known the impact that temperature has on species migration), ensuring that the correct version of the model (temp v. no temp) is used.
+
+Applying this model will help researchers and policy makers better understand animal migration patterns so that these animal species will not be harmed with future climate change and infastructure development. We welcome you to give the code a try on an animal species of interest! 
 
 # Contact us
 Justin Rist (<a href="jsr5605@psu.edu">jsr5605@psu.edu</a>)
