@@ -2,6 +2,8 @@
 title: Modeling Animal Migration Routes with Machine Learning
 
 ---
+# Modeling Animal Migration Routes with Machine Learning
+
 | ![https://github.com/JSRist0028/animalmigration/blob/d88d2d8699947cc306f03af4980d05e1554641e4/website/swan_map_contpred_notemp.PNG?raw=true](https://github.com/JSRist0028/animalmigration/blob/d88d2d8699947cc306f03af4980d05e1554641e4/website/swan_map_contpred_notemp.PNG?raw=true) | 
 |:--:| 
 | *Swan Migration Route Prediction* |
