@@ -25,7 +25,7 @@ This project uses Python's Keras package to create a neural network for predicti
 # Results
 Using barnacle geese data from the Movebank Data Repository, we found that the model to predict the next day migration routes fitted better than the one to predict year-long migration routes. After including temperature as a predictor, the model prediction loss decreased, which indicates that temperature had an impact on barnacle geese’s migration routes. 
 
-Similar to the barnacle geese’s result, the model of predicting tundra swans’ next day migration fitted better than the model of predicting year-long migration routes. However, models with temperature had worse accuracy than those without temperature. Previous research has also suggested that the migration speed and route of tundra swans were consistent across years.
+Similar to the barnacle geese’s result, the model of predicting tundra swans’ next day migration fitted better than the model of predicting year-long migration routes. However, models with temperature had worse accuracy than those without temperature. Previous research has also suggested that the migration speed and route of tundra swans were consistent across years.[4]
 
 
 # Takeaways
@@ -39,3 +39,10 @@ Junyan Tian (<a href="jxt717@psu.edu">jxt717@psu.edu</a>)
 Christine Cummings (<a href="cmc6720@psu.edu">cmc6720@psu.edu</a>)
 
 # References
+1. Trinder, Mark N., Hassell, David and Votier, Stephen. “Reproductive performance in arctic‐nesting geese is influenced by environmental conditions during the wintering, breeding and migration seasons.” Oikos Vol. 118 No. 7 (2009): pp. 1093-1101. DOI: 10.1111/j.1600-0706.2009.17429.x 
+
+2. Shariati-Najafabadi, Mitra, Darvishzadeh, Roshanak, Skidmore, Andrew K., Kölzsch, Andrea, Exo, Klaus-Michael, Nolet, Bart A., ... and Toxopeus, Albertus G. “Environmental parameters linked to the last migratory stage of barnacle geese en route to their breeding sites.” Animal behaviour Vol. 118 (2016): pp. 81-95. DOI: 10.1016/j.anbehav.2016.05.018 
+
+3. Hupp, Jerry W., Ward, David H., Soto, David X. and Hobson, Keith A. “Spring temperature, migration chronology, and nutrient allocation to eggs in three species of arctic‐nesting geese: Implications for resilience to climate warming.” Global Change Biology Vol. 24 No. 11 (2018): pp. 5056-5071. DOI: 10.1111/gcb.14418 
+
+4. Nuijten, R. J. (2020). Bewick's Swans in a Changing World: Species Responses and the Need for Dynamic Nature Conservation. Universiteit van Amsterdam.
