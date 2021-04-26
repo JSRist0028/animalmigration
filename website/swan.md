@@ -8,6 +8,8 @@ Tracked movements of swans over 5 years (July 2008 - Feburary 2012)
 
 We modeled and predicted where each tracked bird was expected to be the next day and traced year-long migration routes. We trained our model with the first 75% (or 3 years) of our tracked data and compared our results using only the bird's location data to our results using the bird's location data and daily weather data. We looked at the accuracy for our model predicting the next location in our "training data" (the first 75% of data), the next day location of our "testing data" (the remaining 25% of data), and the locations of each bird continuously for a future year of data (tested using the final 25% of data). The loss for each prediction type is shown in the figure below. While our next day predictions were fairly accurace, predicting the swan's location far in the future was less accurate. 
 
+An interesting observation the team noticed is that inclusion of temperature data decreased the model prediction accuracy. This implies Tundra swan migration is not heavily impacted by temperature. 
+
 
 |    | Training data loss | Next day prediction loss | Year-long prediction loss |
 | --- | --- | --- | --- |
