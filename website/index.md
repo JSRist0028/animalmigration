@@ -15,7 +15,7 @@ The overarching goal of this project is to create an easy-to-implement tool that
 
 
 # Data selection
-Among all the migratory animals, we are interested in waterflow near the Arctic area because: (1) they have less interactions with human beings; (2) the bird migration in the Arctic area is one of the most important events in the natural world [5]; (3) the climate changing speed in the Arctic area is the fastest on Earth [6]; and (4) previous research indicated that climate change in Arctic area is affecting animals’ migration [7].
+Among all the migratory animals, we are interested in waterflow near the Arctic area because: (1) they have less interactions with human beings; (2) the bird migration in the Arctic area is one of the most important events in the natural world [1]; (3) the climate changing speed in the Arctic area is the fastest on Earth [2]; and (4) previous research indicated that climate change in Arctic area is affecting animals’ migration [3].
 
 **Click on each image below for a detailed study of these animals**
 
@@ -34,7 +34,7 @@ This project uses Python's Keras package to create a neural network for predicti
 # Results
 Using barnacle geese data from the Movebank Data Repository, we found that the model to predict the next day migration routes fitted better than the one to predict year-long migration routes. After including temperature as a predictor, the model prediction loss decreased, which indicates that temperature had an impact on barnacle geese’s migration routes. 
 
-Similar to the barnacle geese’s result, the model of predicting tundra swans’ next day migration fitted better than the model of predicting year-long migration routes. However, models with temperature had worse accuracy than those without temperature. Previous research has also suggested that the migration speed and route of tundra swans were consistent across years.[4]
+Similar to the barnacle geese’s result, the model of predicting tundra swans’ next day migration fitted better than the model of predicting year-long migration routes. However, models with temperature had worse accuracy than those without temperature. Previous research has also suggested that the migration speed and route of tundra swans were consistent across years.[6]
 
 
 # Takeaways
@@ -48,10 +48,15 @@ Junyan Tian (<a href="jxt717@psu.edu">jxt717@psu.edu</a>)
 Christine Cummings (<a href="cmc6720@psu.edu">cmc6720@psu.edu</a>)
 
 # References
-1. Trinder, Mark N., Hassell, David and Votier, Stephen. “Reproductive performance in arctic‐nesting geese is influenced by environmental conditions during the wintering, breeding and migration seasons.” Oikos Vol. 118 No. 7 (2009): pp. 1093-1101. DOI: 10.1111/j.1600-0706.2009.17429.x 
+1. Johnson, S. R., & Herter, D. R. “Bird migration in the Arctic: a review”. Bird migration. (1990): pp. 22-43. 
 
-2. Shariati-Najafabadi, Mitra, Darvishzadeh, Roshanak, Skidmore, Andrew K., Kölzsch, Andrea, Exo, Klaus-Michael, Nolet, Bart A., ... and Toxopeus, Albertus G. “Environmental parameters linked to the last migratory stage of barnacle geese en route to their breeding sites.” Animal behaviour Vol. 118 (2016): pp. 81-95. DOI: 10.1016/j.anbehav.2016.05.018 
+2. Vincent, Warwick F. “Arctic climate change: Local impacts, global consequences, and policy implications.” In The Palgrave handbook of Arctic policy and politics. Palgrave Macmillan (2020): pp.507-526. 
 
-3. Hupp, Jerry W., Ward, David H., Soto, David X. and Hobson, Keith A. “Spring temperature, migration chronology, and nutrient allocation to eggs in three species of arctic‐nesting geese: Implications for resilience to climate warming.” Global Change Biology Vol. 24 No. 11 (2018): pp. 5056-5071. DOI: 10.1111/gcb.14418 
+3. Davidson, Sarah C., Bohrer, Gil, Gurarie, Eliezer, LaPoint, Scott, Mahoney, Peter J., Boelman, Natalie T., ... & Hebblewhite, Mark (2020). “Ecological insights from three decades of animal movement tracking across a changing Arctic”. Science Vol. 370 No. 6517: 712-715. DOI: 10.1126/science.abb7080 
+2. Trinder, Mark N., Hassell, David and Votier, Stephen. “Reproductive performance in arctic‐nesting geese is influenced by environmental conditions during the wintering, breeding and migration seasons.” Oikos Vol. 118 No. 7 (2009): pp. 1093-1101. DOI: 10.1111/j.1600-0706.2009.17429.x 
 
-4. Nuijten, Rascha. J. "Bewick's Swans in a Changing World: Species Responses and the Need for Dynamic Nature Conservation. Universiteit van Amsterdam." Universiteit van Amsterdam (2020).
+4. Shariati-Najafabadi, Mitra, Darvishzadeh, Roshanak, Skidmore, Andrew K., Kölzsch, Andrea, Exo, Klaus-Michael, Nolet, Bart A., ... and Toxopeus, Albertus G. “Environmental parameters linked to the last migratory stage of barnacle geese en route to their breeding sites.” Animal behaviour Vol. 118 (2016): pp. 81-95. DOI: 10.1016/j.anbehav.2016.05.018 
+
+5. Hupp, Jerry W., Ward, David H., Soto, David X. and Hobson, Keith A. “Spring temperature, migration chronology, and nutrient allocation to eggs in three species of arctic‐nesting geese: Implications for resilience to climate warming.” Global Change Biology Vol. 24 No. 11 (2018): pp. 5056-5071. DOI: 10.1111/gcb.14418 
+
+6. Nuijten, Rascha. J. "Bewick's Swans in a Changing World: Species Responses and the Need for Dynamic Nature Conservation. Universiteit van Amsterdam." Universiteit van Amsterdam (2020).
