@@ -2,7 +2,7 @@
 title: Modeling Animal Migration Routes with Machine Learning
 
 ---
-<img src="https://github.com/JSRist0028/animalmigration/blob/beccd0e282fd6a8da0bf041d68d46f3bb8175931/website/ProcessFlow.PNG?raw=true" width="600" >
+<img src="https://github.com/JSRist0028/animalmigration/blob/d88d2d8699947cc306f03af4980d05e1554641e4/website/swan_map_contpred_notemp.PNG?raw=true" width="600" >
 Swan migration route prediction
 
 # Why use machine learning to investigate animal migration routes?
