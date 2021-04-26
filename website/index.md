@@ -10,7 +10,7 @@ The overarching goal of this project is to create an easy-to-implement tool that
 
 
 # Data selection
-Among all the migratory animals, we are interested in waterflow near the Arctic area because: (1) they have less interactions with human beings; (2) the bird migration in the Arctic area is one of the most important events in the natural world [5]; (3) the climate changing speed in the Arctic area is the fastest on Earth [6]; and (4) previous research indicated that climate change in Arctic area is affecting animals’ migration [6].
+Among all the migratory animals, we are interested in waterflow near the Arctic area because: (1) they have less interactions with human beings; (2) the bird migration in the Arctic area is one of the most important events in the natural world [5]; (3) the climate changing speed in the Arctic area is the fastest on Earth [6]; and (4) previous research indicated that climate change in Arctic area is affecting animals’ migration [7].
 
 **Click on each image below for a detailed study of these animals**
 
