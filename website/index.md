@@ -25,6 +25,7 @@ This project uses Python's Keras package to create a neural network for predicti
 # Results
 
 # Takeaways
+This project demonstrates that a neural network framework is an efficient way to predict the migration routes of animals. Although this tool is less accurate than prediction methods on induvidual speicies, it is general and does not require extensive background knowledge in animal behavior in order to be implemented. However, to ensure valid results we do recommend doing research on migration patterns for a particular animal species in parallel with use of the model, ensuring that the model results will be valid. Applying this model will help researchers and policy makers better understand animal migration patterns so that these animal species will not be harmed with future climate change and infastructure development. We welcome you to give the code an animal species of interest and hope to update and improve the model in future studies! 
 
 # Contact us
 Justin Rist (<a href="jsr5605@psu.edu">jsr5605@psu.edu</a>)
