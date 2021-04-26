@@ -17,3 +17,7 @@ We modeled and predicted where each tracked bird was expected to be the next day
 
 
 ![alt="Geese results" width="880" border="10"](https://github.com/JSRist0028/animalmigration/blob/94fd4e5fd2e6634fae69666f3989a87153fb50b7/website/goose_results.PNG?raw=true)
+
+
+![alt="Geese animation no temp" width="200" border="10"](https://github.com/JSRist0028/animalmigration/blob/cf88cd2bc6fd08950ad5a01aeafcb75bb0c46602/animations/GooseNoTemp.gif?raw=true)
+![alt="Geese animation no temp" width="200" border="10"](https://github.com/JSRist0028/animalmigration/blob/cf88cd2bc6fd08950ad5a01aeafcb75bb0c46602/animations/GooseTemp.gif?raw=true)
