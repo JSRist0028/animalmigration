@@ -34,7 +34,7 @@ This project uses Python's Keras package to create a neural network for predicti
 # Results
 Using barnacle geese data from the Movebank Data Repository, we found that the model to predict the next day migration routes fitted better than the one to predict year-long migration routes. After including temperature as a predictor, the model prediction loss decreased, which indicates that temperature had an impact on barnacle geese’s migration routes. 
 
-Similar to the barnacle geese’s result, the model of predicting tundra swans’ next day migration fitted better than the model of predicting year-long migration routes. However, models with temperature had worse accuracy than those without temperature. Previous research has also suggested that the migration speed and route of tundra swans were consistent across years.[6]
+Similar to the barnacle geese’s result, the model of predicting tundra swans’ next day migration fitted better than the model of predicting year-long migration routes. However, models with temperature had worse accuracy than those without temperature. Previous research has also suggested that the migration speed and route of tundra swans were consistent across years.[7]
 
 
 # Takeaways
