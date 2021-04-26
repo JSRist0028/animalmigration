@@ -45,4 +45,4 @@ Christine Cummings (<a href="cmc6720@psu.edu">cmc6720@psu.edu</a>)
 
 3. Hupp, Jerry W., Ward, David H., Soto, David X. and Hobson, Keith A. “Spring temperature, migration chronology, and nutrient allocation to eggs in three species of arctic‐nesting geese: Implications for resilience to climate warming.” Global Change Biology Vol. 24 No. 11 (2018): pp. 5056-5071. DOI: 10.1111/gcb.14418 
 
-4. Nuijten, R. J. (2020). Bewick's Swans in a Changing World: Species Responses and the Need for Dynamic Nature Conservation. Universiteit van Amsterdam.
+4. Nuijten, Rascha. J. "Bewick's Swans in a Changing World: Species Responses and the Need for Dynamic Nature Conservation. Universiteit van Amsterdam." Universiteit van Amsterdam (2020).
