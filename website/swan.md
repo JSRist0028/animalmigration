@@ -22,3 +22,8 @@ An interesting observation the team noticed is that inclusion of temperature dat
 
 <img src="https://github.com/JSRist0028/animalmigration/blob/be52614bc1b553311ed2855c2c19466238182d2e/animations/SwanNoTemp.gif?raw=true" width="500" />
 <img src="https://github.com/JSRist0028/animalmigration/blob/be52614bc1b553311ed2855c2c19466238182d2e/animations/SwanTemp.gif?raw=true" width="500" /> 
+
+# How will Global Warming affect swan migration?
+
+<img src="https://github.com/JSRist0028/animalmigration/blob/5586df711713808be3254655eeefbfb3174abaf5/animations/SwanGW.gif?raw=true" width="500" /> 
+In this figure, 'GW' indicates that the datapoints are related to the prediction with a two degree celsius temperature increase, while 'no GW' indicates the path with the actual temperature values. Since swan migration is not closely tied to temperature, these results may or may not be representative of swan migrations with a 2 degree warming. 
